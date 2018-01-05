@@ -1,0 +1,8 @@
+{
+  "name": "GSion",
+  "app_id": "29df8614",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
